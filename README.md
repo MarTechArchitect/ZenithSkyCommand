@@ -12,7 +12,8 @@ The platform is technically prepared for subscription monetization, with billing
 
 Proprietary Notice & Licensing:
 This is a Strictly Confidential Private Repository. The source code, architecture, and algorithms (ZenithSkyCommand) constitute valuable Intellectual Property and Trade Secrets.
-Investment & Business Inquiries: auroraklajzer@gmail.com
+Investment & Business Inquiries: u6977409492@gmail.com
+
 Technical Audits: Access for verified partners can be granted via GitHub Collaboration strictly under a signed Non-Disclosure Agreement (NDA).
 Unauthorized access, distribution, or reverse engineering of this repository is strictly prohibited and protected by international copyright laws.
 
